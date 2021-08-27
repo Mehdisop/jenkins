@@ -1,1 +1,1 @@
-cat premierscript.sh > secondscript.sh
+cat log1.sh > log2.sh
