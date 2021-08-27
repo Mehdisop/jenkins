@@ -1,1 +1,1 @@
-cat /var/log/syslog > premierscript.sh
+cat /var/log/syslog > log1.sh
